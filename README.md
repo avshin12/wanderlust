@@ -1,4 +1,4 @@
-off platform - individual project using AJAX/asycronous javascript with web requests using fetch/promises.
+off platform - individual project using AJAX/asynchronous javascript with web requests using fetch/promises.
 
 challenges overcome:
   - created API keys from two public APIs (foursquare & openweather)
